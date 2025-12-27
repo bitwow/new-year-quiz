@@ -36,7 +36,7 @@ function ResultScreen({ result, onRestart }) {
       await new Promise((resolve, reject) => {
         logo.onload = resolve;
         logo.onerror = reject;
-        logo.src = '/images/logo.png';
+        logo.src = '/new-year-quiz/images/logo.png';
       });
 
       const logoSize = 100;
