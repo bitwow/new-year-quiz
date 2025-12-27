@@ -6,9 +6,9 @@ function TelegramLink() {
       rel="noopener noreferrer"
       className="telegram-link"
     >
-      <img 
-        src="/images/logo.png" 
-        alt="Telegram" 
+      <img
+        src="/new-year-quiz/images/logo.png"
+        alt="Telegram"
         className="telegram-logo"
       />
       <div className="telegram-text">
